@@ -213,11 +213,8 @@ const emojiFunc = ()=>{
  else if(corrValue==2){
   _scoreBodyHeading.innerHTML='☹️☹️ <br> <h3>Average </h3>'
  }
- else if(corrValue==1){
-  _scoreBodyHeading.innerHTML='☹️☹️☹️ <br> <h3>Bad </h3>'
- }
  else{
-  _scoreBodyHeading.innerHTML='😡😡😡 <br> <h3>Not Played</h3>'
+  _scoreBodyHeading.innerHTML='☹️☹️☹️ <br> <h3>Bad </h3>'
  }
 }
 

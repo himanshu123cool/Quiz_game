@@ -411,7 +411,6 @@ body{
 
     .question_heading_box{
         flex-direction: column;
-        gap: 1rem 0;
     }
 
     .question_heading{
@@ -420,6 +419,7 @@ body{
 
     .timer_box{
         font-size: 1rem;
+        margin: 0.8rem 0;
     }
 
     .timer_box>span{
@@ -505,7 +505,6 @@ body{
 
     .question_heading_box{
         flex-direction: column;
-        gap: 1rem 0;
     }
 
     .question_heading{
@@ -515,6 +514,7 @@ body{
     .timer_box{
         font-size: 1rem;
         padding: 0.2rem;
+        margin: 0.8rem 0;
     }
 
     .timer_box>span{
