@@ -95,6 +95,7 @@ body{
     background-color: #fff;
     color: blueviolet;
     border: 2px solid blueviolet;
+    margin-right:0.5rem;
 }
 
 .question_box{
@@ -410,7 +411,7 @@ body{
 
     .question_heading_box{
         flex-direction: column;
-        gap: 0.7rem 0;
+        gap: 1rem 0;
     }
 
     .question_heading{
@@ -449,6 +450,7 @@ body{
 
     .score_footer{
         width: 100%;
+        margin: 0.5rem 0;
     }
 
     .left_footer,.middle_footer,.right_footer{
@@ -492,6 +494,10 @@ body{
         font-size: 0.8rem;
     }
 
+    .rule_footer_box{
+        padding: 0;
+    }
+
     .question_box{
         width: 100%;
         padding: 0.5rem 0.2rem;
@@ -499,7 +505,7 @@ body{
 
     .question_heading_box{
         flex-direction: column;
-        gap: 0.7rem 0;
+        gap: 1rem 0;
     }
 
     .question_heading{
@@ -548,6 +554,7 @@ body{
 
     .score_footer{
         width: 100%;
+        margin: 0.5rem 0;
     }
 
     .left_footer,.middle_footer,.right_footer{
